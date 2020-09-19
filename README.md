@@ -1,2 +1,0 @@
-# todolist
-todo list project 
